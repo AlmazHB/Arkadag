@@ -1,0 +1,1 @@
+export 'book/book_model.dart';

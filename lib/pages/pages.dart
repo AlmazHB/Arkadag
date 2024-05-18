@@ -1,0 +1,10 @@
+export 'home_page/home_page.dart';
+export 'main_page/main_page.dart';
+export 'login_page/login.dart';
+export 'user/user.dart';
+export 'info_page/info.dart';
+export 'audio_page/audio.dart';
+export 'book_detail/book.dart';
+export 'pdf/pdf.dart';
+export 'search/search.dart';
+export 'makala/makala.dart';
